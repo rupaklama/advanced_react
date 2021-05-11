@@ -79,8 +79,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js",
-    "generate:container": "node generator/generator.js"
+    "test": "node scripts/test.js"
   },
   "eslintConfig": {
     "extends": "react-app"
